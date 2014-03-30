@@ -1,3 +1,5 @@
+author: @BrunoOviedoS
+
 frontend-profesional-america
 ============================
 
